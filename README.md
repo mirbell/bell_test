@@ -5,7 +5,7 @@ test repo for git / GitHub lesson
 - Create a remote repository on GitHub
 - Practice git workflow
   
-## Creator
+## Candy corn is nasty
 
 - Miranda is a Sr. Env. Scientist with the Delta Stewardship Council. You can contact her at [miranda.tilcock@deltacouncil.ca.gov](mailto:miranda.tilcock@deltacouncil.ca.gov).
 
